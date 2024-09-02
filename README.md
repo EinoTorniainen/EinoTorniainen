@@ -8,6 +8,7 @@
 - This is what I look like.
  # ![aaaaaaaaaaaaaa](https://avatars.githubusercontent.com/u/179564143?s=400&v=4)
 - [My profile](https://github.com/EinoTorniainen)
+- [My linkedin](https://www.linkedin.com/in/eino-torniainen-64aa0a326/)
 <!--
 EinoTorniainen/EinoTorniainen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
